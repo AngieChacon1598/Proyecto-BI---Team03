@@ -1,0 +1,36 @@
+- Instalar las librerías necesarias:
+
+ pip install pandas
+
+pip install numpy
+
+pip install matplotlib
+
+
+
+
+
+- ejecutar pandas: 
+
+python nivel_socioeconomico.py
+
+python ingreso_principal.py
+
+python nivel_educativo_padres.py
+
+
+
+
+
+- ejecutar numpy: 
+
+python nivel_socioeconomico_numpy.py
+
+python ingreso_principal_numpy.py
+
+python nivel_educativo_numpy.py
+
+ python personas_del_hoga_numpy.py
+
+ python influencia_economica_numpy.py 
+ 
